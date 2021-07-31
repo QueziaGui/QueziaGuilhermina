@@ -43,7 +43,7 @@ body {
 }
 /*passar mouse*/
 .link-sobre:hover{
-    background-color: blue;
+    background-color: rgb(255, 0, 212);
 }
 
 .caixa-sobre{
